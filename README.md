@@ -31,10 +31,3 @@ This is a Laravel-based To-Do App enhanced with:
 - Symbolic link created via `php artisan storage:link`
 
 ---
-
-## 📦 Installation Instructions
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
